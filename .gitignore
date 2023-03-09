@@ -149,3 +149,6 @@ $RECYCLE.BIN/
 *.msp
 # Windows shortcuts
 *.lnk
+##pychache
+__pycache__/
+*.py[cod]
